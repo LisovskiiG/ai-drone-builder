@@ -4,7 +4,7 @@
 
 AI Drone Builder is a web service that helps users choose compatible parts for a custom drone and plan its assembly. It turns a flight brief into a proposed configuration, a parts specification, and a step-by-step assembly guide. It is designed for hobbyists planning their first quadcopter, experienced builders comparing options, and instructors preparing training builds.
 
-<img width="1280" height="720" alt="Moke_Specification" src="https://github.com/user-attachments/assets/c661f7b8-239d-4ac1-9669-70903f9d349d" />
+<img width="1280" height="720" alt="Interface_App" src="https://github.com/user-attachments/assets/7dc3feb9-33f6-4b27-9718-aa1bc644855a" />
 
 ### What you specify
 
@@ -40,7 +40,7 @@ A user wants a recreational FPV quadcopter with stabilised control, up to 250 g 
 
 AI Drone Builder — веб-сервис для подбора совместимых компонентов и планирования сборки дрона. Пользователь задаёт параметры полёта, а сервис предлагает конфигурацию, составляет спецификацию деталей и готовит пошаговую инструкцию по сборке. Сервис рассчитан на тех, кто собирает первый квадрокоптер, опытных сборщиков, сравнивающих варианты, и преподавателей, подбирающих комплектации для обучения.
 
-<img width="1280" height="720" alt="Moke_Specification" src="https://github.com/user-attachments/assets/c661f7b8-239d-4ac1-9669-70903f9d349d" />
+<img width="1280" height="720" alt="Interface_App" src="https://github.com/user-attachments/assets/7dc3feb9-33f6-4b27-9718-aa1bc644855a" />
 
 ### Какие параметры задаёт пользователь
 
@@ -76,7 +76,7 @@ AI Drone Builder — веб-сервис для подбора совмести�
 
 AI Drone Builder — дронға өзара үйлесімді бөлшектерді таңдауға және оны құрастыруды жоспарлауға көмектесетін веб-сервис. Пайдаланушы ұшу параметрлерін енгізеді, ал сервис лайықты конфигурацияны ұсынып, бөлшектер спецификациясын және құрастыру бойынша қадамдық нұсқаулықты дайындайды. Сервис алғашқы квадрокоптерін құрастыратын әуесқойларға, түрлі нұсқаларды салыстыратын тәжірибелі құрастырушыларға және оқу үшін жинақ таңдайтын оқытушыларға арналған.
 
-<img width="1280" height="720" alt="Moke_Specification" src="https://github.com/user-attachments/assets/c661f7b8-239d-4ac1-9669-70903f9d349d" />
+<<img width="1280" height="720" alt="Interface_App" src="https://github.com/user-attachments/assets/7dc3feb9-33f6-4b27-9718-aa1bc644855a" />
 
 ### Пайдаланушы енгізетін параметрлер
 
